@@ -1,0 +1,63 @@
+2017-09-21 08:51:09: nonceStr：qhNZa3v1
+2017-09-21 08:51:09: timestamp:1505983869
+2017-09-21 08:51:09: url:http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-21 08:51:09: accessToken:56eb17d2deb232a699aa3294b0953bc7
+2017-09-21 08:51:09: jsApiTicket:m868L7eYvN5XQBQKBr7P3zYpjSPxDid3bf7YXlEGwNVinOELSVRIVy8TdWeYDAf5sE1TQblCqG6H8vlHp9NiUD
+2017-09-21 08:51:09: signature not sha1:jsapi_ticket=m868L7eYvN5XQBQKBr7P3zYpjSPxDid3bf7YXlEGwNVinOELSVRIVy8TdWeYDAf5sE1TQblCqG6H8vlHp9NiUD&noncestr=qhNZa3v1&timestamp=1505983869&url=http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-21 08:51:09: signature sha1:ace56c1fe1b1af71d5d4048d463cb23b0241001d
+2017-09-21 08:53:52: nonceStr：CxYwEgIJ
+2017-09-21 08:53:52: timestamp:1505984030
+2017-09-21 08:53:52: url:http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-21 08:53:52: accessToken:56eb17d2deb232a699aa3294b0953bc7
+2017-09-21 08:53:52: jsApiTicket:Mv2npwjEuv0jExlnfieGhGcuaRdRv4Ajtgl9rm4aiZ77mqK2v7OdRIHTgRbbopJokR40F4h9KCRefPhsWeFHDk
+2017-09-21 08:53:52: signature not sha1:jsapi_ticket=Mv2npwjEuv0jExlnfieGhGcuaRdRv4Ajtgl9rm4aiZ77mqK2v7OdRIHTgRbbopJokR40F4h9KCRefPhsWeFHDk&noncestr=CxYwEgIJ&timestamp=1505984030&url=http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-21 08:53:52: signature sha1:60b3122d2345df1c2fca2ea946878106d7473d4b
+2017-09-21 09:02:45: nonceStr：CboP1kQU
+2017-09-21 09:03:03: timestamp:1505984219
+2017-09-21 09:03:08: url:http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-21 09:03:22: accessToken:56eb17d2deb232a699aa3294b0953bc7
+2017-09-21 09:03:22: jsApiTicket:rLX4RSeDyjhrGP1poR47xZKe02t2RtRfRA2YP7N4i8zdytnfsKq4k5tp9ji3jbNbloAh1Rm94fgpyxjrPNzzNY
+2017-09-21 09:03:22: signature not sha1:jsapi_ticket=rLX4RSeDyjhrGP1poR47xZKe02t2RtRfRA2YP7N4i8zdytnfsKq4k5tp9ji3jbNbloAh1Rm94fgpyxjrPNzzNY&noncestr=CboP1kQU&timestamp=1505984219&url=http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-21 09:04:03: signature sha1:3e6b188351af0eed1bc974b399b85862fb123cd2
+2017-09-21 09:21:23: nonceStr：37pohc4i
+2017-09-21 09:21:23: timestamp:1505985684
+2017-09-21 09:21:23: url:http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-21 09:21:23: accessToken:56eb17d2deb232a699aa3294b0953bc7
+2017-09-21 09:21:23: jsApiTicket:rt6purL8lZibL8SkPOEg0pAlJspcHmrKXwA7WdHQQihG6aVyMeRFSMNZDl1vWRRv8VqwIID2FfsBvYtxlvvqnl
+2017-09-21 09:21:23: signature not sha1:jsapi_ticket=rt6purL8lZibL8SkPOEg0pAlJspcHmrKXwA7WdHQQihG6aVyMeRFSMNZDl1vWRRv8VqwIID2FfsBvYtxlvvqnl&noncestr=37pohc4i&timestamp=1505985684&url=http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-21 09:21:23: signature sha1:58e7ccba79ec067c2e91cae982b4af9ac3dab611
+2017-09-21 09:22:16: nonceStr：ikT2geYx
+2017-09-21 09:22:16: timestamp:1505985737
+2017-09-21 09:22:16: url:http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-21 09:22:16: accessToken:56eb17d2deb232a699aa3294b0953bc7
+2017-09-21 09:22:16: jsApiTicket:btiERLSpcZcmlpMCRtD99OonF9SxfZLMPyn37lVaOtFLpO4YpxXOqFOhOM9pZLb6VzPOSQ63JljpZUW4zAkBO1
+2017-09-21 09:22:16: signature not sha1:jsapi_ticket=btiERLSpcZcmlpMCRtD99OonF9SxfZLMPyn37lVaOtFLpO4YpxXOqFOhOM9pZLb6VzPOSQ63JljpZUW4zAkBO1&noncestr=ikT2geYx&timestamp=1505985737&url=http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-21 09:22:16: signature sha1:3484ea7d8947fd0678db9fe577c936cf06c73a2e
+2017-09-21 09:22:30: nonceStr：XkYwTlRY
+2017-09-21 09:22:30: timestamp:1505985751
+2017-09-21 09:22:30: url:http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-21 09:22:30: accessToken:56eb17d2deb232a699aa3294b0953bc7
+2017-09-21 09:22:30: jsApiTicket:E7d2fCEO9Pi3a9xTxgEFPJ4mMRxfDkEx2Ckd44vGGiby795P69mCD6G21Nj7Tb5lDUY1T8byNAo7aRF6darG7L
+2017-09-21 09:22:30: signature not sha1:jsapi_ticket=E7d2fCEO9Pi3a9xTxgEFPJ4mMRxfDkEx2Ckd44vGGiby795P69mCD6G21Nj7Tb5lDUY1T8byNAo7aRF6darG7L&noncestr=XkYwTlRY&timestamp=1505985751&url=http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-21 09:22:30: signature sha1:7bd716ab7a26c161fb6187b27fd31a112cd45aea
+2017-09-21 09:58:39: nonceStr：jFrDvkWE
+2017-09-21 09:58:39: timestamp:1505987919
+2017-09-21 09:58:39: url:http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-21 09:58:39: accessToken:56eb17d2deb232a699aa3294b0953bc7
+2017-09-21 09:58:39: jsApiTicket:407w2rUPkL5rVT4Pz8QiqgFRc7KPG3NlqeEwQybRppJkMuOjJv3dUruuUcyDDVTA5UmmReebUjXkAfnrPB0okM
+2017-09-21 09:58:39: signature not sha1:jsapi_ticket=407w2rUPkL5rVT4Pz8QiqgFRc7KPG3NlqeEwQybRppJkMuOjJv3dUruuUcyDDVTA5UmmReebUjXkAfnrPB0okM&noncestr=jFrDvkWE&timestamp=1505987919&url=http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-21 09:58:39: signature sha1:32279d1d5bfd51de88619e175be7f5f4bacac7f3
+2017-09-21 12:40:23: nonceStr：WDDqzzDC
+2017-09-21 12:40:23: timestamp:1505997623
+2017-09-21 12:40:23: url:http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-21 12:40:23: accessToken:abddf4a622513be58c217c83d001bf57
+2017-09-21 12:40:23: jsApiTicket:7qGex3d46sE9mPnosCFA6sKrYCwDQFfonoEJtAir68A6LPyeUxXB2wBN1LH7k2kDB7m7utq7mBvMKkScqAFMAp
+2017-09-21 12:40:23: signature not sha1:jsapi_ticket=7qGex3d46sE9mPnosCFA6sKrYCwDQFfonoEJtAir68A6LPyeUxXB2wBN1LH7k2kDB7m7utq7mBvMKkScqAFMAp&noncestr=WDDqzzDC&timestamp=1505997623&url=http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-21 12:40:23: signature sha1:0dd47dda74e9b01307eb86a67bd63bdb212fd7e6
+2017-09-21 12:43:53: nonceStr：hfGqW2pO
+2017-09-21 12:43:53: timestamp:1505997833
+2017-09-21 12:43:53: url:http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-21 12:43:53: accessToken:abddf4a622513be58c217c83d001bf57
+2017-09-21 12:43:53: jsApiTicket:1GvpJ4sovEYJ8IQmZNBhvU8cC6Ot51kKGbLcXRNeVaLRyYuPppmGZCRtZwgUaQXom92ntGJI8kanzgZtlV75wd
+2017-09-21 12:43:53: signature not sha1:jsapi_ticket=1GvpJ4sovEYJ8IQmZNBhvU8cC6Ot51kKGbLcXRNeVaLRyYuPppmGZCRtZwgUaQXom92ntGJI8kanzgZtlV75wd&noncestr=hfGqW2pO&timestamp=1505997833&url=http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-21 12:43:53: signature sha1:023ebc081065d60abad3e4b7d9f2768597fd330c

@@ -1,0 +1,27 @@
+2017-09-20 15:14:20: nonceStr：jhfR7FJ9
+2017-09-20 15:14:20: timestamp:1505920461
+2017-09-20 15:14:20: url:http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-20 15:14:20: accessToken:87b27b46a83c36dc90f726c594cb413c
+2017-09-20 15:14:20: jsApiTicket:fxBVycbKJsvC9DjsFsuozpilfuoJILe3WE5jfTI6DbwGwiq3DBCuYlzXURb6TY6y2ORox3tHLSuI6lebkV3vcO
+2017-09-20 15:14:20: signature not sha1:jsapi_ticket=fxBVycbKJsvC9DjsFsuozpilfuoJILe3WE5jfTI6DbwGwiq3DBCuYlzXURb6TY6y2ORox3tHLSuI6lebkV3vcO&noncestr=jhfR7FJ9&timestamp=1505920461&url=http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-20 15:14:20: signature sha1:482a56632ded03593ea04049b43b9b7f9c6eedd9
+2017-09-20 15:15:24: nonceStr：jeXPXbNM
+2017-09-20 15:15:24: timestamp:1505920525
+2017-09-20 15:15:24: url:http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-20 15:15:24: accessToken:87b27b46a83c36dc90f726c594cb413c
+2017-09-20 15:15:24: jsApiTicket:5J7E4ZybWr2yTyvZezi71f3Pj5MRbltLWwNvbOKoY1I49lPg95b8Rzy5Ii1FP16hR36YL5dFyLpi6fPjT01Qd6
+2017-09-20 15:15:24: signature not sha1:jsapi_ticket=5J7E4ZybWr2yTyvZezi71f3Pj5MRbltLWwNvbOKoY1I49lPg95b8Rzy5Ii1FP16hR36YL5dFyLpi6fPjT01Qd6&noncestr=jeXPXbNM&timestamp=1505920525&url=http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-20 15:15:24: signature sha1:ee55d0ab290d5edd76cde3a6c285b18526fa4d95
+2017-09-20 16:46:43: nonceStr：HgfpyfNX
+2017-09-20 16:46:43: timestamp:1505926004
+2017-09-20 16:46:43: url:http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-20 16:46:43: accessToken:87b27b46a83c36dc90f726c594cb413c
+2017-09-20 16:46:43: jsApiTicket:qSLgJS3DrQuy5tQjuS0JM7sWm1ICF41nLL2IzuAVhCaQKEb6eadZreAUE6hcehOsvD5WlBz9j3tClak90UWMee
+2017-09-20 16:46:43: signature not sha1:jsapi_ticket=qSLgJS3DrQuy5tQjuS0JM7sWm1ICF41nLL2IzuAVhCaQKEb6eadZreAUE6hcehOsvD5WlBz9j3tClak90UWMee&noncestr=HgfpyfNX&timestamp=1505926004&url=http://localhost:10006/Enterprise/JsAPI.aspx
+2017-09-20 16:46:43: signature sha1:2ec429cb6c2ac2345ac5170d21952cff6c5f4ac7
+2017-09-20 16:48:23: ===========================1、服务器方发送回来的值===========================
+2017-09-20 16:48:23: 1、signature:
+2017-09-20 16:48:23: 2、timeStamp:
+2017-09-20 16:48:23: 3、nonce:
+2017-09-20 16:48:23: 4、encrypt:
+2017-09-20 16:48:23: ==========================================================================
